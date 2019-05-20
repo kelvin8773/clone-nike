@@ -31,8 +31,9 @@ $border-thick: 2px black solid;
   min-width: ($num*$width+$gutter*($num+(-1)))*1rem;
 }
 
-@mixin bg-img($source-sm,$source-md) {
+@mixin bg-img($source-sm, $source-md) {
   background: #aaf url($source-sm) top/cover no-repeat;
+
   @include screen-only(md) {
     background: #aaf url($source-md) top/cover no-repeat;
   }
@@ -66,6 +67,7 @@ body {
 main {
   padding: 0 0.5rem;
   max-width: 100rem;
+
   @include screen-only(lg) {
     padding: 0 2rem;
     margin: 0 auto;
@@ -141,32 +143,32 @@ button {
 }
 
 .header-title {
-  margin-top: 6rem;
+  margin-top: 3rem;
   margin-bottom: 1rem;
 }
 
 
 #top-img .card-img {
   @include card-img-height;
-  @include bg-img('./../images/atr0hpe67umu3e18w0tj_result.png','./../images/oqr4shlwt45mlpjxhpti_result.png');
+  @include bg-img('./../images/atr0hpe67umu3e18w0tj_result.png', './../images/oqr4shlwt45mlpjxhpti_result.png');
 }
 
 #trend-top .card-img {
   @include card-img-height;
-  @include bg-img('./../images/zzgm5necqg3lvbjp2sj5_result.png','./../images/wvfvvgzzbvtpmqeutpof_result.png');
+  @include bg-img('./../images/zzgm5necqg3lvbjp2sj5_result.png', './../images/wvfvvgzzbvtpmqeutpof_result.png');
 }
 
 
 #trending-now .left {
   //card-img
   @include card-img-height;
-  @include bg-img('./../images/xwdqs9s0uka415vqfm4a_result.png','./../images/c9sfmrrqd5c25xzrcg5l_result.png');
+  @include bg-img('./../images/xwdqs9s0uka415vqfm4a_result.png', './../images/c9sfmrrqd5c25xzrcg5l_result.png');
 }
 
 #trending-now .right {
   //card-img
   @include card-img-height;
-  @include bg-img('./../images/skdwb3nydewupi9oklbw_result.png','./../images/sxbzvauvpqjrz5vqj5zs_result.png');
+  @include bg-img('./../images/skdwb3nydewupi9oklbw_result.png', './../images/sxbzvauvpqjrz5vqj5zs_result.png');
 }
 
 #trending-now {
@@ -178,15 +180,19 @@ button {
 #best-seller {
   .card-overlay {
     padding: 3rem 2rem;
+
     @include screen-only(md) {
       padding: 1rem;
     }
   }
+
   .card {
     padding-bottom: $gutter*1rem;
   }
+
   img {
     height: 100%;
+
     @include screen-only(lg) {
       max-height: 38rem;
     }
@@ -218,7 +224,8 @@ button {
 
 #trend-bottom {
   .card-group {
-    @include overflow-calculator(8,340/18);
+    @include overflow-calculator(8, 340/18);
+
     .card {
       min-width: 340/18*1rem;
     }

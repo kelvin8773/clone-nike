@@ -2057,334 +2057,334 @@ h6 {
 }
 
 /* customizing */
-/* line 42, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 43, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 ul li {
   padding: 0.7rem 0.8rem;
 }
 
-/* line 46, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 47, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #footer-links li {
   padding: 0.4rem 0.7rem;
 }
 
-/* line 52, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 53, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #site-help .title,
 #site-about .title {
   padding: 0.4rem 0.7rem;
 }
 
-/* line 58, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 59, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 body {
   overflow-x: hidden;
 }
 
-/* line 62, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 63, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 * {
   box-sizing: border-box;
 }
 
-/* line 66, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 67, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 main {
   padding: 0 0.5rem;
   max-width: 100rem;
 }
 
 @media (min-width: 1024px) {
-  /* line 66, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 67, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   main {
     padding: 0 2rem;
     margin: 0 auto;
   }
 }
 
-/* line 75, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 77, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .content-box {
   box-sizing: content-box;
 }
 
-/* line 79, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 81, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .sample-bg-1 {
   background-color: #03e;
 }
 
-/* line 83, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 85, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .sample-bg-2 {
   background-color: #f3e;
 }
 
-/* line 87, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 89, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .sample-h {
   height: 20rem;
 }
 
-/* line 91, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 93, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .w-inherit {
   width: inherit;
 }
 
-/* line 95, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 97, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .w-100 {
   width: 100%;
 }
 
-/* line 99, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 101, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .h-inherit {
   height: inherit;
 }
 
-/* line 103, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 105, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .h-100 {
   height: 100%;
 }
 
-/* line 107, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 109, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .fit-cover {
   object-fit: cover;
 }
 
-/* line 111, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 113, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .fit-contain {
   object-fit: contain;
 }
 
-/* line 115, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 117, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .overflow-x-auto {
   overflow-x: auto;
 }
 
-/* line 119, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 121, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 button {
   cursor: pointer;
 }
 
-/* line 123, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 125, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .z-index-1 {
   z-index: 5;
 }
 
-/* line 127, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 129, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .z-index-2 {
   z-index: 10;
 }
 
-/* line 131, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 133, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .border {
   border: 1px black solid;
 }
 
-/* line 135, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 137, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .border-bottom-gray {
   border-bottom: lightgray 0.5px solid;
 }
 
-/* line 139, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 141, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .border-bottom-darkergray {
   border-bottom: #555 0.3px solid;
 }
 
-/* line 143, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 145, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 .header-title {
-  margin-top: 6rem;
+  margin-top: 3rem;
   margin-bottom: 1rem;
 }
 
-/* line 149, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 151, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #top-img .card-img {
   height: 27.77778rem;
   background: #aaf url("./../images/atr0hpe67umu3e18w0tj_result.png") top/cover no-repeat;
 }
 
 @media (min-width: 648px) {
-  /* line 149, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 151, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #top-img .card-img {
     height: 38.88889rem;
   }
 }
 
 @media (min-width: 648px) {
-  /* line 149, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 151, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #top-img .card-img {
     background: #aaf url("./../images/oqr4shlwt45mlpjxhpti_result.png") top/cover no-repeat;
   }
 }
 
-/* line 154, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 156, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trend-top .card-img {
   height: 27.77778rem;
   background: #aaf url("./../images/zzgm5necqg3lvbjp2sj5_result.png") top/cover no-repeat;
 }
 
 @media (min-width: 648px) {
-  /* line 154, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 156, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trend-top .card-img {
     height: 38.88889rem;
   }
 }
 
 @media (min-width: 648px) {
-  /* line 154, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 156, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trend-top .card-img {
     background: #aaf url("./../images/wvfvvgzzbvtpmqeutpof_result.png") top/cover no-repeat;
   }
 }
 
-/* line 160, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 162, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trending-now .left {
   height: 27.77778rem;
   background: #aaf url("./../images/xwdqs9s0uka415vqfm4a_result.png") top/cover no-repeat;
 }
 
 @media (min-width: 648px) {
-  /* line 160, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 162, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trending-now .left {
     height: 38.88889rem;
   }
 }
 
 @media (min-width: 648px) {
-  /* line 160, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 162, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trending-now .left {
     background: #aaf url("./../images/c9sfmrrqd5c25xzrcg5l_result.png") top/cover no-repeat;
   }
 }
 
-/* line 166, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 168, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trending-now .right {
   height: 27.77778rem;
   background: #aaf url("./../images/skdwb3nydewupi9oklbw_result.png") top/cover no-repeat;
 }
 
 @media (min-width: 648px) {
-  /* line 166, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 168, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trending-now .right {
     height: 38.88889rem;
   }
 }
 
 @media (min-width: 648px) {
-  /* line 166, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 168, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #trending-now .right {
     background: #aaf url("./../images/sxbzvauvpqjrz5vqj5zs_result.png") top/cover no-repeat;
   }
 }
 
-/* line 173, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 175, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trending-now .card {
   padding-bottom: 0.5rem;
 }
 
-/* line 179, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 181, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #best-seller .card-overlay {
   padding: 3rem 2rem;
 }
 
 @media (min-width: 648px) {
-  /* line 179, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 181, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #best-seller .card-overlay {
     padding: 1rem;
   }
 }
 
-/* line 185, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 189, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #best-seller .card {
   padding-bottom: 0.5rem;
 }
 
-/* line 188, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 193, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #best-seller img {
   height: 100%;
 }
 
 @media (min-width: 1024px) {
-  /* line 188, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 193, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #best-seller img {
     max-height: 38rem;
   }
 }
 
-/* line 196, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 202, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #best-seller .card-img {
   height: 100%;
 }
 
 @media (max-width: 647.9px) {
-  /* line 196, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 202, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #best-seller .card-img {
     padding-bottom: 1rem;
   }
 }
 
-/* line 205, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 211, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trend-bottom img {
   width: 100%;
 }
 
-/* line 210, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 216, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #top-picks .card-group {
   width: 200%;
   min-width: 115.83333rem;
 }
 
-/* line 213, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 219, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #top-picks .card-group .card {
   min-width: 18.88889rem;
 }
 
-/* line 220, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 226, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trend-bottom .card-group {
   width: 266.66667%;
   min-width: 154.61111rem;
 }
 
-/* line 222, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 229, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #trend-bottom .card-group .card {
   min-width: 18.88889rem;
 }
 
-/* line 229, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 236, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #top-navbar-left li {
   border-right: lightgray 0.5px solid;
 }
 
-/* line 235, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 242, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #top-navbar-right li:hover {
   border-bottom: 2px black solid;
 }
 
-/* line 240, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 247, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #second-navbar {
   padding: 0 1.2rem;
 }
 
-/* line 243, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 250, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #second-navbar img {
   height: 1.4rem;
 }
 
-/* line 247, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 254, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #second-navbar li {
   padding: 1.3rem 1rem;
 }
 
-/* line 250, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 257, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #second-navbar li:hover {
   border-bottom: 2px black solid;
 }
 
-/* line 255, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 262, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #second-navbar input {
   height: 2.8rem;
   width: 12rem;
   padding: 0.3rem;
 }
 
-/* line 262, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+/* line 269, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
 #message-bar {
   padding-top: 4.16667rem;
 }
 
 @media (min-width: 1024px) {
-  /* line 262, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
+  /* line 269, ../../../../../Users/kelvin/projects/web/clone-nike/assets/framework/main.scss */
   #message-bar {
     padding-top: 6.66667rem;
   }
